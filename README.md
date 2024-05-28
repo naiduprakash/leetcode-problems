@@ -1,2 +1,2 @@
 # leetcode-problems
-Leetcode solutions with problem link
+Leetcode solutions with link to the respective problem statment
