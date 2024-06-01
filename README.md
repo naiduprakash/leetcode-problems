@@ -1,5 +1,5 @@
 # leetcode-problems
-Leetcode solutions with link to the respective problem statment
+Leetcode solutions with link to the respective problem statement
 
 
 1. [Two Sum](problems/1.two-sum.md)
